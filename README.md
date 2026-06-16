@@ -1,12 +1,12 @@
 # Hi, I'm Param 👋
 
-Cybersecurity student at RMIT University, currently building hands-on projects that combine secure software development with practical security tooling. New in my tech journey. 
+Bachelor's of Cybersecurity (Prof) student at RMIT University.
+
+Currently building hands-on projects that combine secure software development with practical security tooling. 
+
+Also interested in digital forensics, malware analysis and exploring security tools.
 
 Building things to explore and learn!
-
-- 🎓 Bachelor of Cybersecurity (Professional) @ RMIT University
-- 🌱 Currently interested in digital forensics, malware analysis and exploring security tools.
-- 📌 Check out my pinned repos below for what I'm actively working on
 
 ## Core Skills
 

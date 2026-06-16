@@ -40,17 +40,15 @@ Building things to explore and learn!
 ![Procmon](https://img.shields.io/badge/-Procmon-455A64?style=flat-square)
 ![Regshot](https://img.shields.io/badge/-Regshot-455A64?style=flat-square)
 
-## GitHub Stats
-
-![Param's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvs-348&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvs-348&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvs-348&theme=dark&hide_border=true)
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramvir-param-singh-721992324/)
+https://www.linkedin.com/in/paramvir-param-singh-721992324/
+
+
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:param.pvs348@gmail.com)
+param.pvs348@gmail.com
 
 ---
 ⭐ From [pvs-348](https://github.com/pvs-348)

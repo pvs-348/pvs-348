@@ -17,12 +17,20 @@ Building things to explore and learn!
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-## Currently Exploring
-
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Suricata](https://img.shields.io/badge/-Suricata-FF6600?style=flat-square)
+![Autopsy](https://img.shields.io/badge/-Autopsy-2C5BB4?style=flat-square)
+![FTK Imager](https://img.shields.io/badge/-FTK%20Imager-2C5BB4?style=flat-square)
+![Weka](https://img.shields.io/badge/-Weka-D32F2F?style=flat-square)
+![Process Hacker](https://img.shields.io/badge/-Process%20Hacker-455A64?style=flat-square)
+![Procmon](https://img.shields.io/badge/-Procmon-455A64?style=flat-square)
+![Regshot](https://img.shields.io/badge/-Regshot-455A64?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+## Currently Exploring
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -30,15 +38,8 @@ Building things to explore and learn!
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Suricata](https://img.shields.io/badge/-Suricata-FF6600?style=flat-square)
-![Autopsy](https://img.shields.io/badge/-Autopsy-2C5BB4?style=flat-square)
-![FTK Imager](https://img.shields.io/badge/-FTK%20Imager-2C5BB4?style=flat-square)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-6A1B9A?style=flat-square)
-![Weka](https://img.shields.io/badge/-Weka-D32F2F?style=flat-square)
-![Process Hacker](https://img.shields.io/badge/-Process%20Hacker-455A64?style=flat-square)
-![Procmon](https://img.shields.io/badge/-Procmon-455A64?style=flat-square)
-![Regshot](https://img.shields.io/badge/-Regshot-455A64?style=flat-square)
+
 
 
 ## Connect with me

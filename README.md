@@ -48,8 +48,5 @@ Building things to explore and learn!
 https://www.linkedin.com/in/paramvir-param-singh-721992324/
 
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:param.pvs348@gmail.com)
-param.pvs348@gmail.com
-
 ---
 ⭐ From [pvs-348](https://github.com/pvs-348)
